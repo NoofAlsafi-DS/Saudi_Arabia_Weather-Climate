@@ -28,6 +28,48 @@ The dataset contains 1852380 rows and 35 columns. it contains data from the year
 #### 1st Plot: Air Temperature Categories Distribution:
 <img width="820" alt="Screen Shot 2023-01-09 at 14 04 51" src="https://user-images.githubusercontent.com/117467806/211294791-1b71908c-e97f-4caf-83fb-7611a03d7d46.png">
 
+#### 2nd Plot: Year Distribution:
+<img width="756" alt="Screen Shot 2023-01-09 at 14 05 07" src="https://user-images.githubusercontent.com/117467806/211299418-6393ec27-81e2-4db0-91f7-8eb1161c85cf.png">
+
+#### 3rd Plot: Station Country Distribution:
+<img width="778" alt="Screen Shot 2023-01-09 at 14 05 31" src="https://user-images.githubusercontent.com/117467806/211299546-8a0fa5d8-8ed4-4956-9927-18e4cb603674.png">
+
+####4th Plot: Humidity Levels Distribution:
+<img width="798" alt="Screen Shot 2023-01-09 at 14 05 43" src="https://user-images.githubusercontent.com/117467806/211299776-d36d499d-ca26-430d-a360-a04767ebc86f.png">
+
+
+#### 5th Plot: Cloud And Visibility OK Distribution:
+<img width="761" alt="Screen Shot 2023-01-09 at 14 06 01" src="https://user-images.githubusercontent.com/117467806/211299865-0435901f-fa74-42d0-b1ef-7a3b719c5e0b.png">
+
+#### 6th Plot: Total Observations in each regions in 2021:
+<img width="788" alt="Screen Shot 2023-01-09 at 14 06 16" src="https://user-images.githubusercontent.com/117467806/211299980-5f9faad7-b327-4e9e-9809-a906715c8757.png">
+
+#### 7th Plot: Air Temperature Variations over Years:
+<img width="662" alt="Screen Shot 2023-01-09 at 14 06 34" src="https://user-images.githubusercontent.com/117467806/211300107-db37e05b-a7f0-46e3-9c0e-9cabc3aeadac.png">
+
+
+
+#### 8th Plot: Wind Speed Variations over Years:
+<img width="716" alt="Screen Shot 2023-01-09 at 14 06 42" src="https://user-images.githubusercontent.com/117467806/211300226-08f78396-2310-44ea-9caa-4cbd56e1aac6.png">
+
+#### 9th Plot: Air Temperature Variations over Month:
+<img width="751" alt="Screen Shot 2023-01-09 at 14 06 54" src="https://user-images.githubusercontent.com/117467806/211300371-5b19a18f-8239-4df0-a1cf-134b2e41292b.png">
+
+
+#### 10th Plot: Air Temperature Categories Per Year:
+<img width="750" alt="Screen Shot 2023-01-09 at 14 07 04" src="https://user-images.githubusercontent.com/117467806/211300495-1faae61a-455d-47a5-9250-3c8299f27a04.png">
+
+#### 11th Plot: Wind Speed Rate According To Air Temperature Categories:
+<img width="768" alt="Screen Shot 2023-01-09 at 14 07 14" src="https://user-images.githubusercontent.com/117467806/211300628-843cab68-1f22-4cf1-a81e-64b291d8e9b6.png">
+
+### Dashboards
+After cleaning and processed the dataset we used Tableau to create dashboards to find insights within the dataset. We created Two dashboards where each of them is sharing a coherent story.
+
+
+
+
+
+
 
 
 
