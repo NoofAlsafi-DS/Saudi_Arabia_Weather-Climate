@@ -96,11 +96,11 @@ By 2030, the contribution of renewable energy to the overall energy mix will rea
 
 ### Machine Learning with PySpark
 #### We used Spark to build ML regression & classification models.
-[PySpark]()
+[PySpark](https://github.com/NoofAlsafi-DS/weathers/tree/main/Pyspark)
 
 ### Apache Kafka
 #### Depending on the dataset and our intended application, we implemented some Kafka application for consuming our dataset.
-[Kafka]()
+[Kafka](https://github.com/NoofAlsafi-DS/weathers/tree/main/Kafka)
 
 
 ### Conclusion
