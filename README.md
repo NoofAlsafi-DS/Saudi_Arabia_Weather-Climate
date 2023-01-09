@@ -89,7 +89,7 @@ Renewable energy technologies are highly dependent on climate-related factors in
 By 2030, the contribution of renewable energy to the overall energy mix will reach up to 50%. Renewable energy projects are one of the key drivers towards achieving sustainability that will contribute to avoiding emissions and the displacement of high-value fuel in electricity generation. The weather dataset of Saudi Arabia that we have its a great for forcast potential of Renewable Energy Sector in Saudi Arabia. The outcomes:
 1. The optimum city for wind speed that have best weather circumstances according to available data we have are Taif , Yenbo , and Wejh which have average temperature in each quarter of the year between 35–40 °C and wind speed around 10–15 m/s.
 2. According to provided data the result shows the cities that have optimum temperature with perfect humidity levels in all year quarters are Abha, Guriat, and Khamis Mushait.
-
+[Dashboards Link](https://prod-apnortheast-a.online.tableau.com/#/site/marine/workbooks/834897?:origin=card_share_link)
 ### Pig Latin Exploratory Data Analysis
 #### We used Pig Latin to answer 20 interesting questions about our dataset that will help as find directions for our project and shape our investigation.
 [Pig Script](https://github.com/NoofAlsafi-DS/weathers/tree/main/Pig%20Questions)
