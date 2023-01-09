@@ -34,7 +34,7 @@ The dataset contains 1852380 rows and 35 columns. it contains data from the year
 #### 3rd Plot: Station Country Distribution:
 <img width="778" alt="Screen Shot 2023-01-09 at 14 05 31" src="https://user-images.githubusercontent.com/117467806/211299546-8a0fa5d8-8ed4-4956-9927-18e4cb603674.png">
 
-####4th Plot: Humidity Levels Distribution:
+#### 4th Plot: Humidity Levels Distribution:
 <img width="798" alt="Screen Shot 2023-01-09 at 14 05 43" src="https://user-images.githubusercontent.com/117467806/211299776-d36d499d-ca26-430d-a360-a04767ebc86f.png">
 
 
@@ -65,7 +65,33 @@ The dataset contains 1852380 rows and 35 columns. it contains data from the year
 ### Dashboards
 After cleaning and processed the dataset we used Tableau to create dashboards to find insights within the dataset. We created Two dashboards where each of them is sharing a coherent story.
 
+#### 1st Dashboard:
+##### In the first Dashboard the story describe the relationship between the weather and Tourism Sectors in Saudi Arabia:
+Saudi Arabia is widely seen as the final frontier of tourism. As the birthplace of Islam, and a millennia-old crossroads of pilgrims and traders, the Kingdom’s rich culture and diverse heritage has no equal. In September 2019, Saudi Arabia opened its doors to the world for the first time. The launch of the Kingdom’s tourism visa saw visitors from around the globe flock to explore Saudi’s ancient history, striking landscapes, and warm hospitality. Last year, Saudi Arabia welcomed 67 million visitors, a sure sign that Vision 2030 is shaping the future of the Kingdom’s travel and tourism sector.
+##### Goal:
+Climate and weather are important factors in tourists’ decision making and also influence the successful operation of tourism businesses. With a wide range of terrains — from mountains to deserts to beaches — it’s not surprising that Saud’s weather is also diverse. And while certain generalities apply, there are important differences between regions to consider when planning a visit to Saudi Arabia. So here from the climate and weather data we have will provide an overview of the ideal time to visit any city in Saudi Arabia.
+![b352fa88-d542-40b2-a3ca-fc636e936e12](https://user-images.githubusercontent.com/117467806/211301255-e31492f2-94fb-4b3a-9bd7-211eae3d5c23.JPG)
 
+##### The Dashboard outcomes:
+With an array of climates, cultural events and adventure, there is no wrong time to visit Saudi. The question is, when is the best time for you to visit Saudi? So through the optimum weather or the reason for visit saudi it can decide which city is best for visit in any season according to the insights we provided. For example:
+1. In Summer, Abha and Taif are have a pleasant atmosphere and Multiple adventures to do such as hiking and camping
+2. Jeddah has a warm atmosphere in winter and also you can do a surfing and diving in these season.
+3. To do Umrah the best season for visit Makkah is in fall and winter where the weather in these two season is warmer with average temperature between 29 -32 °C.
+
+#### 2nd Dashboard:
+##### In the second Dashboard the story describe the relationship between the weather and Renewable energy Sectors in Saudi Arabia:
+The Kingdom of Saudi Arabia has a distinct geographical and climatic location that makes utilizing renewable energy sources economically attractive, supporting Saudi efforts to diversify the domestic energy mix. This interest is rapidly increasing in line with Saudi Arabia’s Vision 2030 that aims at achieving sustainable economic, social, and environmental developments.
+##### Goal:
+Renewable energy technologies are highly dependent on climate-related factors including sunlight, wind speed and water availability. So here from the climate and weather data we have will provide an overview of the optimum situation in different city in Saudi Arabia to apply the Renewable energy in it.
+![192be274-a214-4159-b730-13cb2685ea00](https://user-images.githubusercontent.com/117467806/211301628-3f1a84fe-114d-4048-ba7e-91db936d053a.JPG)
+
+##### The Dashboard outcomes:
+By 2030, the contribution of renewable energy to the overall energy mix will reach up to 50%. Renewable energy projects are one of the key drivers towards achieving sustainability that will contribute to avoiding emissions and the displacement of high-value fuel in electricity generation. The weather dataset of Saudi Arabia that we have its a great for forcast potential of Renewable Energy Sector in Saudi Arabia. The outcomes:
+1. The optimum city for wind speed that have best weather circumstances according to available data we have are Taif , Yenbo , and Wejh which have average temperature in each quarter of the year between 35–40 °C and wind speed around 10–15 m/s.
+2. According to provided data the result shows the cities that have optimum temperature with perfect humidity levels in all year quarters are Abha, Guriat, and Khamis Mushait.
+
+Pig Latin Exploratory Data Analysis
+We used Pig Latin to answer 20 interesting questions about our dataset that will help as find directions for our project and shape our investigation.
 
 
 
