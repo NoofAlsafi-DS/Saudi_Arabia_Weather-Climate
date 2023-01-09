@@ -90,8 +90,23 @@ By 2030, the contribution of renewable energy to the overall energy mix will rea
 1. The optimum city for wind speed that have best weather circumstances according to available data we have are Taif , Yenbo , and Wejh which have average temperature in each quarter of the year between 35–40 °C and wind speed around 10–15 m/s.
 2. According to provided data the result shows the cities that have optimum temperature with perfect humidity levels in all year quarters are Abha, Guriat, and Khamis Mushait.
 
-Pig Latin Exploratory Data Analysis
-We used Pig Latin to answer 20 interesting questions about our dataset that will help as find directions for our project and shape our investigation.
+### Pig Latin Exploratory Data Analysis
+#### We used Pig Latin to answer 20 interesting questions about our dataset that will help as find directions for our project and shape our investigation.
+[Pig Script](https://github.com/NoofAlsafi-DS/weathers/tree/main/Pig%20Questions)
+
+### Machine Learning with PySpark
+#### We used Spark to build ML regression & classification models.
+[PySpark]()
+
+### Apache Kafka
+#### Depending on the dataset and our intended application, we implemented some Kafka application for consuming our dataset.
+[Kafka]()
+
+
+### Conclusion
+To conclude, the weather data in Saudi Arabia holds significant value and can influence many areas of the country’s development and especially in the tourism sector and renewable energy. Having access to such data can be a lens to future improvements, if the data is analyzed and stored at a constant and lively pace, it is value and benefits increase to the highest level which will return a positive outcome in the development and many positive outcomes. for our data set which has over one million rows, and we managed to work with it using Pig and Kafka which returned a smooth result. Moreover, the results and accuracy of our project were great and positive.
+### Future Works
+For such a project we need several future improvements, such as continuing working on the project and deploying it, and we could look for better results by improving our models which might return even better and more accurate results.
 
 
 
@@ -101,6 +116,5 @@ We used Pig Latin to answer 20 interesting questions about our dataset that will
 
 
 
-
-
+### Link to Medium blog:
 [Saudi Arabia’s_Weather&Climate _Vision_2030_Medium.pdf](https://github.com/NoofAlsafi-DS/weathers/files/10372335/Saudi.Arabia.s_Weather.Climate._Vision_2030_Medium.pdf)
